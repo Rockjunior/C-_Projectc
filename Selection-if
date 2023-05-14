@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int x;
+    cout <<"Enter a Number"; //prompt message to the user
+    cin >>x; //read a number from keyboard
+
+    //check if the number is even
+    if (x%2 ==)
+    {
+        cout <<x<<"is Even"; //display the nimbernif even
+    }
+    return 0;
+}
